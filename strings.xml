@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="enteryourname">Name</string>
+    <string name="Welcometxt">Welcome</string>
+    <string name="button1">President</string>
+    <string name="button2">Members</string>
+    <string name="loginmemtxt">Members Login</string>
+    <string name="loginpretxt">president Login</string>
+    <string name="Emailtxtpre">enter your email address</string>
+    <string name="passwtxtpre">enter password</string>
+    <string name="conpasswtxtpre">conform password</string>
+    <string name="Login">Login</string>
+    <string name="signup">signup</string>
+    <string name="donthaveacc">do not have account? signup here</string>
+    <string name="haveacc">already have account? login here</string>
+
+
+
+
+</resources>
